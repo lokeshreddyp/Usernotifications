@@ -14,6 +14,7 @@
 		A8E5F4ED1E3666DE00361B13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8E5F4EB1E3666DE00361B13 /* LaunchScreen.storyboard */; };
 		A8E5F4F81E3666DE00361B13 /* UserNotficationsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E5F4F71E3666DE00361B13 /* UserNotficationsTests.swift */; };
 		A8E5F5031E3666DF00361B13 /* UserNotficationsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E5F5021E3666DE00361B13 /* UserNotficationsUITests.swift */; };
+		A8E5F5111E36773200361B13 /* Green copy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A8E5F5101E36773200361B13 /* Green copy.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A8E5F4FE1E3666DE00361B13 /* UserNotficationsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UserNotficationsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8E5F5021E3666DE00361B13 /* UserNotficationsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserNotficationsUITests.swift; sourceTree = "<group>"; };
 		A8E5F5041E3666DF00361B13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A8E5F5101E36773200361B13 /* Green copy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Green copy.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		A8E5F4E11E3666DE00361B13 /* UserNotfications */ = {
 			isa = PBXGroup;
 			children = (
+				A8E5F5101E36773200361B13 /* Green copy.jpg */,
 				A8E5F4E21E3666DE00361B13 /* AppDelegate.swift */,
 				A8E5F4E41E3666DE00361B13 /* ViewController.swift */,
 				A8E5F4E61E3666DE00361B13 /* Main.storyboard */,
@@ -236,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8E5F4ED1E3666DE00361B13 /* LaunchScreen.storyboard in Resources */,
+				A8E5F5111E36773200361B13 /* Green copy.jpg in Resources */,
 				A8E5F4EA1E3666DE00361B13 /* Assets.xcassets in Resources */,
 				A8E5F4E81E3666DE00361B13 /* Main.storyboard in Resources */,
 			);
